@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iulia\Desktop\tema1 cpp\cpp-playground\02_odd_even\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iulia\Desktop\tema1 cpp\cpp-playground\02_odd_even\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9E447AD6-95F3-3EDE-BA87-945D28070F9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

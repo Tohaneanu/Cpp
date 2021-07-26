@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Iulia\Desktop\tema1 cpp\cpp-playground\01_hello_world\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Iulia\Desktop\tema1 cpp\cpp-playground\01_hello_world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{63BE9444-20AC-3024-AAF0-8C208A660D6B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
