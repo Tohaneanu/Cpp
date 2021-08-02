@@ -1,0 +1,5 @@
+# ninja log v5
+0	1118	649629054	CMakeFiles/08_lib_ini_read_book.dir/src/main_ini_bookread.cpp.obj	d3fddaad599ed63e
+1118	1528	649629054	../../../bin/08_lib_ini_read_book.exe	3cdc4349e056d0c6
+1	1121	649629149	CMakeFiles/08_lib_ini_read_book.dir/src/main_ini_bookread.cpp.obj	d3fddaad599ed63e
+1122	1339	649629149	../../../bin/08_lib_ini_read_book.exe	3cdc4349e056d0c6

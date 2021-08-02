@@ -1,0 +1,23 @@
+# ninja log v5
+1	922	649621559	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+922	1298	649621559	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	574	649621614	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+574	744	649621614	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+1	421	649621908	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+421	646	649621909	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	571	649622356	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+571	743	649622356	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	583	649622543	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+583	828	649622543	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+1	595	649622562	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+1	193	649622599	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+1	609	649622994	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+609	844	649622995	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+1	629	649624201	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+630	802	649624201	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	493	649624524	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+493	717	649624524	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	470	649624621	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+470	641	649624622	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2
+0	505	649624984	CMakeFiles/06_read_book_file.dir/src/main_bookread.cpp.obj	fae9bdcd0ed55b9c
+505	737	649624985	../../../bin/06_read_book_file.exe	5de94f9c47ac1fc2

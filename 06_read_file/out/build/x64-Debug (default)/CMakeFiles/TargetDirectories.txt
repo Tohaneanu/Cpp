@@ -1,0 +1,3 @@
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/06_read_file/out/build/x64-Debug (default)/CMakeFiles/06_read_book_file.dir
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/06_read_file/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/06_read_file/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

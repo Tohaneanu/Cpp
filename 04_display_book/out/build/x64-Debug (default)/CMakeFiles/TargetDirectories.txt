@@ -1,0 +1,3 @@
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/04_display_book/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/04_display_book/out/build/x64-Debug (default)/CMakeFiles/04_display_book.dir
+C:/Users/Iulia/Desktop/New folder (4)/Cpp/04_display_book/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

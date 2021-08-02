@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\02_odd_even",
+    "\\02_odd_even\\src",
+    "\\05_show_args",
+    "\\05_show_args\\src",
+    "\\06_read_file",
+    "\\06_read_file\\bin",
+    "\\06_read_file\\src",
+    "\\07_matrix_to_console"
+  ],
+  "SelectedNode": "\\05_show_args\\src\\main_show_args.cpp",
+  "PreviewInSolutionExplorer": false
+}
